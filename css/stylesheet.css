@@ -1,0 +1,32 @@
+body {
+  font-family: Raleway, Helvetica, sans-serif;
+/*  font-weight: bold;*/
+  font-size: 14px;
+
+  background-color: white;
+}
+
+#logo {
+  width:65%;
+  padding-top: 16px;
+  padding-bottom: 20px;
+}
+
+.paragraphe {
+  width: 85px;
+}
+
+p {
+  margin-bottom: 0px
+}
+
+.footer {
+  font-size: 10px;
+  font-family: Georgia;
+  color: black;
+  padding-top: 10px;
+}
+
+.fa-heart {
+  color:red;
+}
